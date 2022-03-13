@@ -24,7 +24,7 @@ El uso de datos, además de certeza, aporta una **visibilidad** más sencilla y 
 *Eldiario.es*, como cada vez más medios, saben aprovechar las **ventajas informativas** que este periodismo aporta al medio y a la profesión, y así lo hace no solo con este caso (el más evidente al estar en primer lugar en su página de inicio), sino que lo emplean en todas las informaciones que así lo precisen. 
 
 
-## La situación de los reactores nucleares ucranianos tras la invasión rusa
+## Comentario III: La situación de los reactores nucleares ucranianos tras la invasión rusa
 
 ### A la luz de los nuevos acontecimientos, los 15 reactores nucleares que existen en Ucrania se han vuelto un objetivo tan atractivo como peligroso para los invasores rusos, y esta imagen nos muestra su situación actual.
 
