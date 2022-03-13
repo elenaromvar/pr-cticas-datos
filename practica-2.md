@@ -6,7 +6,7 @@ Uno de los argumentos que Rusia expone para justificar su invasión a Ucrania es
 
 Por ello, basándonos en esta pieza del 4 de marzo de 2022, y más concretamente en la imagen que la ilustra, resulta interesante detenerse en comentar y analizar la situación que refleja: 
 
-[IMAGEN]("C:\Users\elena\Desktop\descarga.png")
+[IMAGEN](https://www.eldiario.es/internacional/mapa-reactores-nucleares-ucrania-peligro_1_8801884.html)
 
 Según el artículo, **Chernóbil** fue uno de los primeros lugares tomados por la tropas rusas, seguido de un bombardeo a la central de **Enegordar**, la central nuclear más grande de Europa que, como vemos en la imagen marcada con la fecha de su bombardeo (4 de marzo de 2022), se encuentra en la región de **Zaporiyia**. La segunda más grande, según podemos ver en la imagen, es la de **Rivne**, cerca de Chernóbil, que cuenta con 4 reactores, seguida de **Central Sur** y **Jmelnitski**, con tres y dos reactores respectivamente. 
 
