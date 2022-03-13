@@ -1,6 +1,6 @@
-##La situación de los reactores nucleares ucranianos tras la invasión rusa
+## La situación de los reactores nucleares ucranianos tras la invasión rusa
 
-###A la luz de los nuevos acontecimientos, los 15 reactores nucleares que existen en Ucrania se han vuelto un objetivo tan atractivo como peligroso para los invasores rusos, y esta imagen nos muestra su situación actual.
+### A la luz de los nuevos acontecimientos, los 15 reactores nucleares que existen en Ucrania se han vuelto un objetivo tan atractivo como peligroso para los invasores rusos, y esta imagen nos muestra su situación actual.
 
 Uno de los argumentos que Rusia expone para justificar su invasión a Ucrania es **la supuesta creación de armas nucleares** por parte de este país. Debido a ello, los 15 reactores nucleares repartidos en cuatro centrales por todo el territorio ucraniano se han convertido en **objetivo primordial para los invasores** rusos. Tal como desmiente [este artículo de *Eldiario.es*](https://www.eldiario.es/internacional/mapa-reactores-nucleares-ucrania-peligro_1_8801884.html), la afirmación de las armas nucleares es falsa, pero no por ello los reactores dejan de perder importancia en el conflicto. 
 
