@@ -1,4 +1,4 @@
-# practicas-datos
+# PRÁCTICAS I Y II 
 
 ## Comentario I: *Are social media harmful?*
 
