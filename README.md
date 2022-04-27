@@ -4,3 +4,4 @@ Hasta el momento, podemos encontrar aquí:
 * **Práctica I**: dos comentarios en markdown sobre noticias con contenido relacionado con la asignatura
 * **Práctica II**: redacción de pequeña pieza periodística con incursión de links y mapas
 * **Práctica III**: comentarios sobre las prácticas realizadas en clase 
+* **Práctica IV**: análisis y visualización de datos en Python3
